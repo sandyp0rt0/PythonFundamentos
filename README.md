@@ -6,3 +6,4 @@ https://www.datascienceacademy.com.br
 
 
 
+#Python Fundamentos
